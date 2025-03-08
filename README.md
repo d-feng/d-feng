@@ -42,18 +42,18 @@ By leveraging **structured reasoning** and **biological knowledge representation
 
 ## 🏗️ Key Components  
 ### 🔹 AI Reasoning Framework  
--
 - **LangChain**: Framework for building LLM-powered applications.
-- **LanGraph**: Enable multi-agent system that can handle workflows via collaborative problem-solving..  
+- **LangGraph**: Enable multi-agent system that can handle workflows via collaborative problem-solving..  
 - **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, UniProt, KEGG).  
 - **Causal Inference Models**: Implementing causal reasoning for biological systems.  
 
 ### 🔹 Core Modules  
-1. **Biological Question Answering System** – AI-driven responses based on biomedical literature.  
-2. **Hypothesis Generation Engine** – Reasoning-based AI to suggest scientific hypotheses.  
+1. **Digital Biology topics** – Data-driven podcast to facilitate the knowledge transfer and exchange.  
+2. **Hypothesis Generation Engine** – Reasoning-based AI to suggest and evaluate scientific hypotheses.  
 3. **Data Retrieval & Processing** – Extract and preprocess biological datasets.  
 4. **Agent-based Experiment Design** – Assist researchers in planning computational experiments.  
-5. **Automated Literature Review** – NLP-powered summarization of scientific papers.  
+5. **Automated Literature Review** – NLP-powered summarization of scientific papers.
+6. **Data Analysis** - Advanced topics  
 
 ---
 
