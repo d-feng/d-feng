@@ -22,3 +22,56 @@ I am looking for a collaboration of Agentic AI for science<br>Computational Biol
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# Reasoning AI Biologists
+
+## Overview  
+This project aims to build **Reasoning AI Biologists**, an AI-powered system capable of reasoning and making scientific inferences in biological research. The system is developed using **Langraph** and **LangChain**, two powerful open-source frameworks for building AI reasoning workflows and autonomous agents.
+
+By leveraging **structured reasoning** and **biological knowledge representation**, this project will serve as a foundational framework for AI-driven biomedical research, hypothesis generation, and scientific automation.
+
+---
+
+## 🚀 Features & Objectives  
+- **AI-driven Biological Reasoning**: Enable AI agents to analyze biological data and generate hypotheses.  
+- **Autonomous Workflow Execution**: Utilize **Langraph** for constructing reasoning workflows.  
+- **Knowledge Graph Integration**: Connect biological knowledge bases for structured reasoning.  
+- **Natural Language Processing (NLP) Modules**: Use **LangChain** for question-answering and knowledge retrieval.  
+- **Simulation & Experiment Planning**: Assist researchers in designing in silico experiments.  
+
+---
+
+## 🏗️ Key Components  
+### 🔹 AI Reasoning Framework  
+- **Langraph**: Graph-based AI reasoning and workflow management.  
+- **LangChain**: Framework for building LLM-powered applications.  
+- **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, UniProt, KEGG).  
+- **Causal Inference Models**: Implementing causal reasoning for biological systems.  
+
+### 🔹 Core Modules  
+1. **Biological Question Answering System** – AI-driven responses based on biomedical literature.  
+2. **Hypothesis Generation Engine** – Reasoning-based AI to suggest scientific hypotheses.  
+3. **Data Retrieval & Processing** – Extract and preprocess biological datasets.  
+4. **Agent-based Experiment Design** – Assist researchers in planning computational experiments.  
+5. **Automated Literature Review** – NLP-powered summarization of scientific papers.  
+
+---
+
+## 📖 Tutorials & Resources  
+
+### 🌐 Frameworks  
+- **Langraph**: [GitHub Repository](https://github.com/langraph-ai/langraph) | [Docs](https://langraph.ai/docs)  
+- **LangChain**: [GitHub Repository](https://github.com/hwchase17/langchain) | [Docs](https://python.langchain.com/docs/)  
+
+### 🧑‍🔬 Biological Databases & APIs  
+- **PubMed** – [NCBI API](https://www.ncbi.nlm.nih.gov/home/develop/api/)  
+- **KEGG Pathway Database** – [KEGG API](https://www.kegg.jp/kegg/rest/keggapi.html)  
+- **UniProt Protein Database** – [UniProt API](https://www.uniprot.org/help/api)  
+
+### 📚 Tutorials & Learning Resources  
+- **LangChain for AI Agents** – [LangChain Blog](https://blog.langchain.dev/)  
+- **Graph-based AI Reasoning** – [Langraph Tutorials](https://langraph.ai/docs/tutorials)  
+- **Building AI-powered Research Assistants** – [Hugging Face Blog](https://huggingface.co/blog)  
+
+---
+
+## ⚡ Getting Started  
