@@ -25,7 +25,7 @@ I am looking for a collaboration of Agentic AI for science<br>Computational Biol
 # Reasoning AI Biologists
 
 ## Overview  
-This project aims to build **Reasoning AI Biologists**, an AI-powered system capable of reasoning and making scientific inferences in biological research. The system is developed using **Langraph** and **LangChain**, two powerful open-source frameworks for building AI reasoning workflows and autonomous agents.
+This project aims to build **Reasoning AI Biologists**, an AI-powered system capable of reasoning and making scientific inferences in biological research. The system is developed using **LLM**, **LangGraph** and **LangChain**, and other powerful open-source frameworks for building AI reasoning workflows and autonomous agents to accelerate scientific discovery.
 
 By leveraging **structured reasoning** and **biological knowledge representation**, this project will serve as a foundational framework for AI-driven biomedical research, hypothesis generation, and scientific automation.
 
