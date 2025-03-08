@@ -42,8 +42,9 @@ By leveraging **structured reasoning** and **biological knowledge representation
 
 ## 🏗️ Key Components  
 ### 🔹 AI Reasoning Framework  
-- **Langraph**: Graph-based AI reasoning and workflow management.  
-- **LangChain**: Framework for building LLM-powered applications.  
+-
+- **LangChain**: Framework for building LLM-powered applications.
+- **LanGraph**: Enable multi-agent system that can handle workflows via collaborative problem-solving..  
 - **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, UniProt, KEGG).  
 - **Causal Inference Models**: Implementing causal reasoning for biological systems.  
 
