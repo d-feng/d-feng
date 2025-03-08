@@ -23,7 +23,7 @@ I am looking for a collaboration of Agentic AI for science<br>Computational Biol
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 
-   My goal is to advance biomedical science through AI, which augment human capabilities, support scientific progress, and enhance the quality of life while maintaining robust safeguards against misuse and unintended consequences.
+   My goal: Advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.
 ### 
    During Ph.D., I conducted research on basic immunebiology. My postdoctoral research focused on autoimmune and disease susceptibility genes, integrating bioinformatics with wet lab science. Additionally, medical degree provided a strong foundation in clinical perspectives. led computational projects for a small molecule and biological drug program from early research to clinical trials.
 
