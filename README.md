@@ -23,11 +23,12 @@ I am looking for a collaboration of Agentic AI for science<br>Computational Biol
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ### 
-   My goal is to advance science through interdisciplinary collaborations that integrate AI, computational biology, and therapeutic development. AI should augment human capabilities, support scientific progress, and enhance the quality of life while maintaining robust safeguards against misuse and unintended consequences.
+   My goal is to advance biomedical science through AI, which augment human capabilities, support scientific progress, and enhance the quality of life while maintaining robust safeguards against misuse and unintended consequences.
 ### 
    During Ph.D., I conducted research on basic immunebiology. My postdoctoral research focused on autoimmune and disease susceptibility genes, integrating bioinformatics with wet lab science. Additionally, medical degree provided a strong foundation in clinical perspectives. led computational projects for a small molecule and biological drug program from early research to clinical trials.
 
 ## Overview  
+interdisciplinary collaborations that integrate AI, computational biology, and therapeutic development.
 This project aims to build **Reasoning AI Biologists**, an AI-powered system capable of reasoning and making scientific inferences in biological research. The system is developed using **LLM**, **LangGraph** and **LangChain**, and other powerful open-source frameworks for building AI reasoning workflows and autonomous agents to accelerate scientific discovery.
 
 By leveraging **structured reasoning** and **biological knowledge representation**, this project will serve as a foundational framework for AI-driven biomedical research, hypothesis generation, and scientific automation.
