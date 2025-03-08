@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am looking for a collaboration of Agentic AI for science<br>Computational Biology professional with substantial multidisciplinary expertise in drug discovery.<br>I also contributed open source software tools to facilitate the collaboration between scientists.
+I am looking to contribute to LLM or Agentic AI for science.<br>Computational Biology professional with substantial multidisciplinary expertise in drug discovery.<br>I also contributed open source software tools to facilitate the collaboration between scientists.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
