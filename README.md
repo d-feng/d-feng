@@ -25,8 +25,7 @@ I am looking for a collaboration of Agentic AI for science<br>Computational Biol
 ### 
    My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.
 ### 
-   During Ph.D., I conducted research on basic immunebiology. My postdoctoral research focused on autoimmune and disease susceptibility genes, integrating bioinformatics with wet lab science. Additionally, medical degree provided a strong foundation in clinical perspectives. led computational projects for a small molecule and biological drug program from early research to clinical trials.
-
+   Conducted Ph.D. research in basic immunobiology and pathology, investigating fundamental immune mechanisms and disease pathology. Led postdoctoral research on autoimmune diseases and susceptibility genes, integrating bioinformatics with wet lab experimentation to uncover genetic and molecular drivers of disease.Leveraged medical training to bridge clinical perspectives with biomedical research, enhancing translational applications.Directed computational projects for small molecule and biologic drug development, guiding programs from early research through clinical trials to advance therapeutic innovation.
 ## Overview  
 interdisciplinary collaborations that integrate AI, computational biology, and therapeutic development.
 This project aims to build **Reasoning AI Biologists**, an AI-powered system capable of reasoning and making scientific inferences in biological research. The system is developed using **LLM**, **LangGraph** and **LangChain**, and other powerful open-source frameworks for building AI reasoning workflows and autonomous agents to accelerate scientific discovery.
