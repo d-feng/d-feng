@@ -48,7 +48,7 @@ By leveraging **structured reasoning** and **biological knowledge representation
 - **Causal Inference Models**: Implementing causal reasoning for biological systems.  
 
 ### 🔹 Core Modules  
-1. **Digital Biology topics** – Data-driven podcast to facilitate the knowledge transfer and exchange.  
+1. **Digital Biology Topics** – Data-driven podcast to facilitate the knowledge transfer and exchange.  
 2. **Hypothesis Generation Engine** – Reasoning-based AI to suggest and evaluate scientific hypotheses.  
 3. **Data Retrieval & Processing** – Extract and preprocess biological datasets.  
 4. **Agent-based Experiment Design** – Assist researchers in planning computational experiments.  
