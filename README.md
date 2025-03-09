@@ -28,7 +28,6 @@ I am looking to contribute to LLM or Agentic AI for science.<br>Computational Bi
    Conducted Ph.D. research in basic immunobiology and pathology, investigating fundamental immune mechanisms and disease pathology. Led postdoctoral research on autoimmune diseases and susceptibility genes, integrating bioinformatics with wet lab experimentation to uncover genetic and molecular drivers of disease.Leveraged medical training to bridge clinical perspectives with biomedical research, enhancing translational applications.Directed computational projects for small molecule and biologic drug development, guiding programs from early research through clinical trials to advance therapeutic innovation.
 ###   
     By leveraging **computational biology data analysis**, **structured reasoning** and **biological knowledge representation**,  autonomous agents to accelerate hypothesis generation and scientific discovery.
----
 # Reasoning AI Biologists
 ## 🚀 Features & Objectives  
 - **AI-driven Biological Reasoning**: Enable AI agents to analyze biological data and generate hypotheses.  
