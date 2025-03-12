@@ -35,12 +35,11 @@ LLM or Agentic AI for science.
 ## 🏗️ Muse   
 
 ### Projects  
-1. **Digital Biology Topics** – Chat-RAG to discuss based on the content. Data-driven podcast to facilitate the knowledge transfer and exchange.  
-2. **Hypothesis Generation Engine** – Reasoning-based approaches to suggest and evaluate scientific hypotheses.  
-3. **Data Retrieval & Processing** – Dataset knowledge extraction + LLM RAG   
-4. **Agent-based Experiment Design** – Assist researchers in planning computational experiments.  
-5. **Automated Literature Review** – NLP-powered summarization of scientific papers.
-6. **Data Analysis** - Advanced topics  
+1. **Domain Knowledge: Biomedical** – Chatbot and Podcast based on LLM and RAG.   
+2. **Hypothesis Generation** – Agentic AI for hypothesis generation.  
+3. **Data driven Knowledge generation** – Dataset analysis and knowledge extraction, KG.    
+4. **Fondation model** – Sequence, protein, and gene.   
+5. **Resonsible AI** - Advanced topics  
 
 ---
  
