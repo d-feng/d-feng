@@ -52,7 +52,8 @@ LLM or Agentic AI for science.
 ### 🌐 Frameworks  
 ### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
-- **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)  
+- **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)
+- ** Virology ** [Nature Virology](https://www.nature.com/subjects/virology) 
 - **Biotech and Pharmaceutical** – [Biospace](https://www.biospace.com/)  
 
 ### 📚 Learning Resources  
