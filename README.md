@@ -33,13 +33,8 @@ LLM or Agentic AI for science.
 ## 🚀 List of Repository  
 
 ## 🏗️ Muse   
-### 🔹 AI Reasoning Framework  
-- **LangChain**: Framework for building LLM-powered applications.
-- **LangGraph**: Enable multi-agent system that can handle workflows via collaborative problem-solving..  
-- **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, Bioinformatics database ).  
-- **Causal Inference Models**: Implementing causal reasoning for biological systems.  
 
-### 🔹 Core Modules  
+### Projects  
 1. **Digital Biology Topics** – Chat-RAG to discuss based on the content. Data-driven podcast to facilitate the knowledge transfer and exchange.  
 2. **Hypothesis Generation Engine** – Reasoning-based approaches to suggest and evaluate scientific hypotheses.  
 3. **Data Retrieval & Processing** – Dataset knowledge extraction + LLM RAG   
@@ -48,12 +43,11 @@ LLM or Agentic AI for science.
 6. **Data Analysis** - Advanced topics  
 
 ---
-## 📖 Tutorials & Resources  
-### 🌐 Frameworks  
+ 
 ### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
 - **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)
-- ** Virology ** [Nature Virology](https://www.nature.com/subjects/virology) 
+- **Virology** [Nature Virology](https://www.nature.com/subjects/virology) 
 - **Biotech and Pharmaceutical** – [Biospace](https://www.biospace.com/)  
 
 ### 📚 Learning Resources  
@@ -64,4 +58,3 @@ LLM or Agentic AI for science.
 
 ---
 
-## ⚡ Getting Started  
