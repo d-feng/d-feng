@@ -67,8 +67,8 @@ I am looking to contribute to LLM or Agentic AI for science.
 - **LangChain**: [GitHub Repository](https://github.com/hwchase17/langchain) | [Docs](https://python.langchain.com/docs/)  
 
 ### 🧑‍🔬 Biological Databases & APIs  
-- **PubMed** – [NCBI API](https://www.ncbi.nlm.nih.gov/home/develop/api/)  
-- **KEGG Pathway Database** – [KEGG API](https://www.kegg.jp/kegg/rest/keggapi.html)  
+- **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
+- **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)  
 - **UniProt Protein Database** – [UniProt API](https://www.uniprot.org/help/api)  
 
 ### 📚 Learning Resources  
