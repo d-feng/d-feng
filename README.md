@@ -71,10 +71,10 @@ I am looking to contribute to LLM or Agentic AI for science.
 - **KEGG Pathway Database** – [KEGG API](https://www.kegg.jp/kegg/rest/keggapi.html)  
 - **UniProt Protein Database** – [UniProt API](https://www.uniprot.org/help/api)  
 
-### 📚 Tutorials & Learning Resources  
+### 📚 Learning Resources  
 - **LangChain for AI Agents** – [LangChain Blog](https://blog.langchain.dev/)  
-- **Graph-based AI Reasoning** – [Langraph Tutorials](https://langraph.ai/docs/tutorials)  
-- **Building AI-powered Research Assistants** – [Hugging Face Blog](https://huggingface.co/blog)  
+- **Google Research Blog** – [Langraph Tutorials](https://research.google/blog/)  
+- **Huggingface Blog** – [Hugging Face Blog](https://huggingface.co/blog)  
 
 ---
 
