@@ -27,49 +27,33 @@ LLM or Agentic AI for science.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 
-   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.
-### 
-   Conducted Ph.D. research in basic immunobiology and pathology, investigating fundamental immune mechanisms and disease pathology. Led postdoctoral research on autoimmune diseases and susceptibility genes, integrating bioinformatics with wet lab experimentation to uncover genetic and molecular drivers of disease.Leveraged medical training to bridge clinical perspectives with biomedical research, enhancing translational applications.Directed computational projects for small molecule and biologic drug development, guiding programs from early research through clinical trials to advance therapeutic innovation.
 ###   
     By leveraging **computational biology data analysis**, **structured reasoning**,**biological knowledge representation**, autonomous agents may accelerate hypothesis generation and scientific discovery.
 ###
-## 🚀 Features & Objectives  
-- **AI-driven Biological Reasoning**: Enable AI agents to analyze biological data and generate hypotheses.  
-- **Autonomous Workflow Execution**: Utilize **Langraph** for constructing reasoning workflows.  
-- **Knowledge Graph Integration**: Connect biological knowledge bases for structured reasoning.  
-- **Natural Language Processing (NLP) Modules**: Use **LangChain** for question-answering and knowledge retrieval.  
-- **Simulation & Experiment Planning**: Assist researchers in designing in silico experiments.  
+## 🚀 List of Repository  
 
----
-
-## 🏗️ Key Components  
+## 🏗️ Muse   
 ### 🔹 AI Reasoning Framework  
 - **LangChain**: Framework for building LLM-powered applications.
 - **LangGraph**: Enable multi-agent system that can handle workflows via collaborative problem-solving..  
-- **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, UniProt, KEGG).  
+- **Knowledge Graphs**: Integration with biomedical databases (e.g., PubMed, Bioinformatics database ).  
 - **Causal Inference Models**: Implementing causal reasoning for biological systems.  
 
 ### 🔹 Core Modules  
-1. **Digital Biology Topics** – Data-driven podcast to facilitate the knowledge transfer and exchange.  
-2. **Hypothesis Generation Engine** – Reasoning-based AI to suggest and evaluate scientific hypotheses.  
-3. **Data Retrieval & Processing** – Extract and preprocess biological datasets.  
+1. **Digital Biology Topics** – Chat-RAG to discuss based on the content. Data-driven podcast to facilitate the knowledge transfer and exchange.  
+2. **Hypothesis Generation Engine** – Reasoning-based approaches to suggest and evaluate scientific hypotheses.  
+3. **Data Retrieval & Processing** – Dataset knowledge extraction + LLM RAG   
 4. **Agent-based Experiment Design** – Assist researchers in planning computational experiments.  
 5. **Automated Literature Review** – NLP-powered summarization of scientific papers.
 6. **Data Analysis** - Advanced topics  
 
 ---
-
 ## 📖 Tutorials & Resources  
-
 ### 🌐 Frameworks  
-- **Langraph**: [GitHub Repository](https://github.com/langraph-ai/langraph) | [Docs](https://langraph.ai/docs)  
-- **LangChain**: [GitHub Repository](https://github.com/hwchase17/langchain) | [Docs](https://python.langchain.com/docs/)  
-
-### 🧑‍🔬 Biological Databases & APIs  
+### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
 - **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)  
-- **UniProt Protein Database** – [UniProt API](https://www.uniprot.org/help/api)  
+- **Biotech and Pharmaceutical** – [Biospace](https://www.biospace.com/)  
 
 ### 📚 Learning Resources  
 - **LangChain for AI Agents** – [LangChain Blog](https://blog.langchain.dev/)  
