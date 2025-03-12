@@ -4,7 +4,7 @@
 ### 
    Conducted Ph.D. research in basic immunobiology and pathology, investigating fundamental immune mechanisms and disease pathology. Led postdoctoral research on autoimmune diseases and susceptibility genes, integrating bioinformatics with wet lab experimentation to uncover genetic and molecular drivers of disease.Leveraged medical training to bridge clinical perspectives with biomedical research, enhancing translational applications.Directed computational projects for small molecule and biologic drug development, guiding programs from early research through clinical trials to advance therapeutic innovation.
 ###   
-I am looking to contribute to LLM or Agentic AI for science.
+LLM or Agentic AI for science.
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
