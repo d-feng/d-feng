@@ -74,7 +74,8 @@ I am looking to contribute to LLM or Agentic AI for science.
 ### 📚 Learning Resources  
 - **LangChain for AI Agents** – [LangChain Blog](https://blog.langchain.dev/)  
 - **Google Research Blog** – [Tech Research](https://research.google/blog/)  
-- **Huggingface Blog** – [Hugging Face Blog](https://huggingface.co/blog)  
+- **Huggingface Blog** – [Hugging Face Blog](https://huggingface.co/blog)
+- **Application in Science** -[AI4Science](https://ai4sciencecommunity.github.io/) 
 
 ---
 
