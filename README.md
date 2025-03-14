@@ -39,7 +39,7 @@ LLM or Agentic AI for science.
 2. **Hypothesis Generation** – Agentic AI for hypothesis generation.  
 3. **Data driven Knowledge generation** – Dataset analysis and knowledge extraction, KG.    
 4. **Fondation model** – Sequence, protein, and gene.   
-5. **Resonsible AI** - Advanced topics, Systematic process for investigating phenomena including observation, questioning, hypothesis, experimentation, analytics, conclusion and reproducible results.   
+5. **Science** - is a systematic approach to investigating phenomena, encompassing observation, questioning, hypothesis formulation, experimentation, data analytics, conclusion drawing, and ensuring reproducible results.   
 
 ---
  
