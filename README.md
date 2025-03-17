@@ -25,19 +25,15 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-###   
-    By leveraging **computational biology data analysis**, **structured reasoning**,**biological knowledge representation**, autonomous agents may accelerate hypothesis generation and scientific discovery.
-###
+   
 ## 🚀 List of Repository  
 
-## 🏗️ Muse   
-
 ### Projects  
-1. **Domain Knowledge: Biomedical** – Chatbot and Podcast based on LLM and RAG.   
-2. **Hypothesis Generation** – Agentic AI for hypothesis generation.  
-3. **Data driven Knowledge generation** – Dataset analysis and knowledge extraction, KG.    
-4. **Fondation model** – Sequence, protein, and gene.   
-5. **Science** - is a systematic approach to investigating phenomena, encompassing observation, questioning, hypothesis formulation, experimentation, data analytics, conclusion drawing, and ensuring reproducible results.   
+1. **Exchange of Biomedical Knowledge** – Building Chatbot and Podcast based on LLM/RAG to facilitate collaboration between experts, implementation with Langchain,LanGraph.    
+2. **Hypothesis Generation** – Agentic AI for hypothesis generation based on human expert's intent. 
+3. **Data driven Knowledge** – Augment intelleigence with computational data analysis and knowledge extraction from hetergenous source.      
+4. **Fondation model** – What we learn from sequence, protein, and gene foundation model.    
+5. **Scientist** - Testing a various agent system or MCP to reach human research like, systematic capability of investigating phenomena, encompassing observation, questioning, hypothesis formulation, experimentation, data analytics, conclusion drawing, and ensuring reproducible results.   
 
 ---
  
