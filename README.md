@@ -26,12 +26,15 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    
-## 🚀 List of Repository  
+## 🚀 Tools
+
+- ![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-%23007ACC?style=flat) [Cursor](https://www.cursor.com/) – A powerful AI-assisted coding editor for improving productivity.
+- ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction) – Explore the documentation for ClaudeMCP to learn about its capabilities and applications.
 
 ### Projects  
 1. **Exchange of Biomedical Knowledge** – Building Chatbot and Podcast based on LLM/RAG to facilitate collaboration between experts, implementation with Langchain,LanGraph.    
 2. **Hypothesis Generation** – Agentic AI for hypothesis generation based on human expert's intent. 
-3. **Data driven Knowledge** – Augment intelleigence with computational data analysis and knowledge extraction from hetergenous source.      
+3. **Data Driven Knowledge Creation** – Augment intelleigence with computational data analysis and knowledge extraction from hetergenous source.      
 4. **Fondation model** – What we learn from sequence, protein, and gene foundation model.    
 5. **Scientist** - Testing a various agent system or MCP to reach human research like, systematic capability of investigating phenomena, encompassing observation, questioning, hypothesis formulation, experimentation, data analytics, conclusion drawing, and ensuring reproducible results.   
 
