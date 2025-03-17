@@ -1,8 +1,6 @@
 # 💫 About Me:
 ### 
-   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.I am a Computational Biology professional with substantial multidisciplinary expertise in drug discovery.I also contributed open source software tools to facilitate the collaboration between scientists.
-### 
-   Conducted Ph.D. research investigating fundamental immune mechanisms and disease pathology. Led postdoctoral research on autoimmune diseases and susceptibility genes, integrating bioinformatics with wet lab experimentation to uncover genetic and molecular drivers of disease.Leveraged medical training to bridge clinical perspectives with biomedical research, enhancing translational applications.Directed computational projects for small molecule and biologic drug development, guiding programs from early research through clinical trials to advance therapeutic innovation.
+   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.I am a Computational Biology professional with 10+ year multidisciplinary expertise in drug discovery and with 10+ years of wet lab experience.I also contributed software tools to facilitate the collaboration between scientists.
 ###   
 LLM or Agentic AI for science.
 <h2>🚀 Languages and Tools I Use</h2>
