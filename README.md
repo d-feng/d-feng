@@ -28,8 +28,8 @@
    
 ## 🚀 Tools
 
-- ![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-%23007ACC?style=flat) [Cursor](https://www.cursor.com/) – Coding editor for improving productivity.
-- ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction) – Explore the documentation for ClaudeMCP to learn about its capabilities and applications.
+- ![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-%23007ACC?style=flat) [Cursor](https://www.cursor.com/) 
+- ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction)
 - MCP server (https://mcp.so/)
 
 ### Projects  
