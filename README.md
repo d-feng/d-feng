@@ -29,7 +29,7 @@
 ## 🚀 Tools
 
 - ![Cursor](https://img.shields.io/badge/Cursor-AI%20Code%20Editor-%23007ACC?style=flat) [Cursor](https://www.cursor.com/) – A powerful AI-assisted coding editor for improving productivity.
-- ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction) – Explore the documentation for ClaudeMCP to learn about its capabilities and applications.
+- ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction) – Explore the documentation for ClaudeMCP to learn about its capabilities and applications.[![MCP Icon](https://mcp.so/favicon.ico)](https://mcp.so/)
 
 ### Projects  
 1. **Exchange of Biomedical Knowledge** – Building Chatbot and Podcast based on LLM/RAG to facilitate collaboration between experts, implementation with Langchain,LanGraph.    
