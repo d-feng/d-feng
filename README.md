@@ -34,6 +34,8 @@
 
 ## Benchmark Resources
 - [LAB-Bench](https://github.com/Future-House/LAB-Bench)
+- [PubMedQA](https://pubmedqa.github.io/).
+- [LiteQA: full text](https://github.com/Future-House/LitQA).
 
 
 ### Projects  
