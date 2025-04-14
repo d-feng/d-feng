@@ -32,6 +32,10 @@
 - ![ClaudeMCP](https://img.shields.io/badge/ClaudeMCP-LLM%20Docs-%23FFB6C1?style=flat) [ClaudeMCP Documentation](https://www.claudemcp.com/docs/introduction)
 - MCP server (https://mcp.so/)
 
+## Benchmark Resources
+- [LAB-Bench](https://github.com/Future-House/LAB-Bench)
+
+
 ### Projects  
 1. **Exchange of Biomedical Knowledge** – Building Chatbot and Podcast based on LLM/RAG to facilitate collaboration between experts, implementation with Langchain,LanGraph.    
 2. **Hypothesis Generation** – Agentic AI for hypothesis generation based on human expert's intent. 
