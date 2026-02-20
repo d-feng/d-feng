@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### 
-   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse and unintended consequences.I am a Computational Biology professional with 10+ year multidisciplinary expertise in drug discovery and with 10+ years of wet lab experience.I also contributed software tools to facilitate the collaboration between scientists.
+   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.I am a scientific researcher, computational bio professional with 10+ year multidisciplinary expertise in drug discovery and wet lab experience.I also contributed software tools to facilitate the collaboration between scientists.
 ###   
    The theme of my github is application of LLM or Agentic AI for biomedical science.
 <h2>🚀 Languages and Tools I Use</h2>
@@ -50,7 +50,7 @@
  
 ### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
-- **Society of Cancer Immune Research** – [KEGG API](https://acir.org/)
+- **Society of Cancer Immune Research** – [ACIR](https://acir.org/)
 - **Virology** [Nature Virology](https://www.nature.com/subjects/virology) 
 - **Biotech and Pharmaceutical** – [Biospace](https://www.biospace.com/)  
 
