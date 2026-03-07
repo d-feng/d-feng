@@ -20,7 +20,6 @@
 <a target="_blank" href="https://www.pinecone.io" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="pinecone" width="42" height="42" /></a>
 <a target="_blank" href="https://www.giskard.ai" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/71782571?s=48&v=4" alt="giskard" width="42" height="42" /></a>
 <a target="_blank" href="https://www.trychroma.com" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" alt="chroma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.sbert.net" style="display: inline-block;"><img src="https://sbert.net/_static/logo.png" alt="sbert" width="42" height="42" /></a>
 <a target="_blank" href="https://crawl4ai.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Crawl4AI-Web%20Crawler-%230077B6?style=flat-square" alt="crawl4ai" height="28" /></a></p>
 
 ### ✍️ Random Dev Quote
