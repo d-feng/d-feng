@@ -19,7 +19,7 @@
 <a target="_blank" href="https://www.anthropic.com" style="display: inline-block;"><img src="https://cdn.simpleicons.org/anthropic" alt="claude" width="42" height="42" /></a>
 <a target="_blank" href="https://www.pinecone.io" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="pinecone" width="42" height="42" /></a>
 <a target="_blank" href="https://www.giskard.ai" style="display: inline-block;"><img src="https://cdn.prod.website-files.com/601d6f7d0b9c984f07bf10bc/68cfcafa84e7184a92f88b6e_logo-giskard-inline-v2.svg" alt="giskard" height="28" /></a>
-<a target="_blank" href="https://www.trychroma.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Chroma-Vector%20DB-%23FF6B6B?style=flat-square" alt="chroma" height="28" /></a>
+<a target="_blank" href="https://www.trychroma.com" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" alt="chroma" width="42" height="42" /></a>
 <a target="_blank" href="https://www.sbert.net" style="display: inline-block;"><img src="https://img.shields.io/badge/SBERT-Embeddings-%234B8BBE?style=flat-square" alt="sbert" height="28" /></a>
 <a target="_blank" href="https://crawl4ai.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Crawl4AI-Web%20Crawler-%230077B6?style=flat-square" alt="crawl4ai" height="28" /></a></p>
 
