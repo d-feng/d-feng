@@ -38,14 +38,34 @@
 - [General CompBio].(https://huggingface.co/datasets/futurehouse/BixBench). 
 
 
-### Projects  
-1. **Exchange of Biomedical Knowledge** – Building Chatbot and Podcast based on LLM/RAG to facilitate collaboration between experts, implementation with Langchain,LanGraph.    
-2. **Hypothesis Generation** – Agentic AI for hypothesis generation based on human expert's intent. 
-3. **Data Driven Knowledge Creation** – Augment intelleigence with computational data analysis and knowledge extraction from hetergenous source.      
-4. **Fondation model** – What we learn from sequence, protein, and gene foundation model.    
-5. **Scientist** - Testing a various agent system or MCP to reach human research like, systematic capability of investigating phenomena, encompassing observation, questioning, hypothesis formulation, experimentation, data analytics, conclusion drawing, and ensuring reproducible results.   
+### Projects
 
----
+#### 🤖 Agentic AI & Automation
+- **[openfang](https://github.com/d-feng/openfang)** – Open-source Agent Operating System
+- **[agent-browser](https://github.com/d-feng/agent-browser)** – Browser automation CLI for AI agents
+- **[Agent-connector](https://github.com/d-feng/Agent-connector)** – Lightweight framework for chaining and parallelizing Biomni bio-agents; execution tracking and Word report export. Built with Biomni, Claude, and LangChain
+- **[LangGraph-cookbook](https://github.com/d-feng/LangGraph-cookbook)** – Practical LangGraph + Claude agent recipes: web search chatbots, stock screeners, gene enrichment analysis
+- **[skill-creator](https://github.com/d-feng/skill-creator)** – Claude Code skill creation and optimization toolkit
+
+#### 🔍 RAG & Search
+- **[LLM_RAG](https://github.com/d-feng/LLM_RAG)** – Retrieval Augmented Generation application
+- **[AskDocs](https://github.com/d-feng/AskDocs)** – RAG-powered document chat; upload DOCX/TXT and ask questions grounded in your own knowledge base. Built with OpenAI embeddings, FAISS, and Streamlit
+- **[hybrid_search_tool](https://github.com/d-feng/hybrid_search_tool)** – Hybrid semantic + keyword search tool
+- **[search_tool_words_expander](https://github.com/d-feng/search_tool_words_expander)** – Rheumatology terminology search with biomedical BERT-based word expansion and LLM judge evaluation
+
+#### 🧬 Biomedical AI & Evals
+- **[Bio-llm-agent-evals](https://github.com/d-feng/Bio-llm-agent-evals)** – Curated eval benchmarks for testing LLM agents in biomedical discovery; includes GeneTuring eval loop with live NCBI E-utilities tool calls
+- **[disease2drug](https://github.com/d-feng/disease2drug)** – Disease-to-drug mapping pipeline
+- **[IMvigor210_TGFb](https://github.com/d-feng/IMvigor210_TGFb)** – Immunotherapy computational analysis of the IMvigor210 TGF-β dataset
+
+#### 🔬 Bioinformatics & Computational Biology
+- **[BioNetwork](https://github.com/d-feng/BioNetwork)** – R pipelines for CRISPRi screen integration and T cell pathway visualisation
+- **[SingleCellExplorer](https://github.com/d-feng/SingleCellExplorer)** / **[scExplorer](https://github.com/d-feng/scExplorer)** – Open-source single-cell RNA-seq web explorer (GNU LGPLv3); co-authored with Dechao Shan
+- **[LR_AI](https://github.com/d-feng/LR_AI)** – Network construction and analysis for ligand-receptor interactions
+
+#### 🎬 Other
+- **[Video-generation](https://github.com/d-feng/Video-generation)** – AI-powered cost of living video generator for YouTube Shorts/TikTok/Reels using Gemini 2.5 Flash + Google Veo + ffmpeg
+- **[circuit-tracer](https://github.com/d-feng/circuit-tracer)** – Tools for finding neural circuits using MLP transcoders and attribution graphs
  
 ### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
