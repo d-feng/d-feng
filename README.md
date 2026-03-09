@@ -80,3 +80,70 @@
 - **Application in Science** -[AI4Science](https://ai4sciencecommunity.github.io/) 
 
 ---
+
+---
+
+## 📖 Tutorials & Teaching Outline
+
+A curriculum based on the projects in this repository, from foundational concepts to advanced applications.
+
+---
+
+### Module 1 — LLM Foundations & RAG
+*Build your first retrieval-augmented generation pipeline*
+
+1. **Intro to LLMs and the Claude API** — prompt design, embeddings, tokens
+2. **Document Q&A with RAG** → [`AskDocs`](https://github.com/d-feng/AskDocs) — chunking, FAISS, OpenAI embeddings, Streamlit UI
+3. **Scaling RAG with better retrieval** → [`LLM_RAG`](https://github.com/d-feng/LLM_RAG) — vector stores, retrieval strategies
+4. **Hybrid Search: dense + sparse** → [`hybrid_search_tool`](https://github.com/d-feng/hybrid_search_tool) — BM25 + semantic reranking
+
+---
+
+### Module 2 — Domain-Specific Search & NLP
+*Apply biomedical NLP to real terminology problems*
+
+1. **Biomedical embeddings** — SapBERT, BiomedBERT, PubMedBERT via HuggingFace Inference API
+2. **Terminology expansion and synonym resolution** → [`search_tool_words_expander`](https://github.com/d-feng/search_tool_words_expander) — FTS5, fuzzy search, UMLS
+3. **LLM-as-judge for evaluation** → `eval_embeddings.py` — Claude scoring embedding quality
+
+---
+
+### Module 3 — Agentic AI with LangGraph
+*Build stateful, multi-step AI agents*
+
+1. **LangGraph basics** — nodes, edges, state machines, checkpointing
+2. **Agent recipes: web search, stock screener, gene enrichment** → [`LangGraph-cookbook`](https://github.com/d-feng/LangGraph-cookbook)
+3. **Chaining and parallelizing agents** → [`Agent-connector`](https://github.com/d-feng/Agent-connector) — DAG execution, tracking, Word report export
+4. **Browser automation for agents** → [`agent-browser`](https://github.com/d-feng/agent-browser) *(fork)* — Playwright, scraping, headless browsing
+
+---
+
+### Module 4 — Evaluating LLM Agents
+*Measure and improve agent performance rigorously*
+
+1. **Eval frameworks overview** — LAB-Bench, PubMedQA, LitQA, BixBench
+2. **Running biomedical evals** → [`Bio-llm-agent-evals`](https://github.com/d-feng/Bio-llm-agent-evals) — GeneTuring loop, live NCBI E-utilities tool calls
+3. **Giskard for AI testing** — automated vulnerability scans, bias detection, RAG quality
+4. **Designing custom evals** — precision/recall, LLM judge patterns, reproducibility
+
+---
+
+### Module 5 — Computational Biology with AI
+*Combine bioinformatics pipelines with LLM reasoning*
+
+1. **Single-cell RNA-seq exploration** → [`SingleCellExplorer`](https://github.com/d-feng/SingleCellExplorer) — UMAP, clustering, differential expression
+2. **Network biology and ligand-receptor analysis** → [`LR_AI`](https://github.com/d-feng/LR_AI) — graph construction, pathway enrichment
+3. **CRISPRi screens and T cell pathways** → [`BioNetwork`](https://github.com/d-feng/BioNetwork) — R pipelines, ggplot2, clusterProfiler
+4. **Immunotherapy data analysis** → [`IMvigor210_TGFb`](https://github.com/d-feng/IMvigor210_TGFb) — TGF-β, IO response, survival analysis
+5. **Disease-to-drug mapping** → [`disease2drug`](https://github.com/d-feng/disease2drug) — knowledge graphs, drug repurposing
+
+---
+
+### Module 6 — Interpretability & Advanced Topics
+*Understand what models learn and automate content creation*
+
+1. **Neural circuit finding** → [`circuit-tracer`](https://github.com/d-feng/circuit-tracer) *(fork)* — MLP transcoders, attribution graphs, mechanistic interpretability
+2. **AI video generation pipeline** → [`Video-generation`](https://github.com/d-feng/Video-generation) — Gemini 2.5 Flash, Google Veo, ffmpeg
+3. **Building an Agent OS** → [`openfang`](https://github.com/d-feng/openfang) *(fork)* — multi-agent orchestration, tool use, memory
+
+---
