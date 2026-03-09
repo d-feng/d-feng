@@ -41,8 +41,8 @@
 ### Projects
 
 #### 🤖 Agentic AI & Automation
-- **[openfang](https://github.com/d-feng/openfang)** – Open-source Agent Operating System
-- **[agent-browser](https://github.com/d-feng/agent-browser)** – Browser automation CLI for AI agents
+- **[openfang](https://github.com/d-feng/openfang)** *(fork)* – Open-source Agent Operating System
+- **[agent-browser](https://github.com/d-feng/agent-browser)** *(fork)* – Browser automation CLI for AI agents
 - **[Agent-connector](https://github.com/d-feng/Agent-connector)** – Lightweight framework for chaining and parallelizing Biomni bio-agents; execution tracking and Word report export. Built with Biomni, Claude, and LangChain
 - **[LangGraph-cookbook](https://github.com/d-feng/LangGraph-cookbook)** – Practical LangGraph + Claude agent recipes: web search chatbots, stock screeners, gene enrichment analysis
 - **[skill-creator](https://github.com/d-feng/skill-creator)** – Claude Code skill creation and optimization toolkit
@@ -65,7 +65,7 @@
 
 #### 🎬 Other
 - **[Video-generation](https://github.com/d-feng/Video-generation)** – AI-powered cost of living video generator for YouTube Shorts/TikTok/Reels using Gemini 2.5 Flash + Google Veo + ffmpeg
-- **[circuit-tracer](https://github.com/d-feng/circuit-tracer)** – Tools for finding neural circuits using MLP transcoders and attribution graphs
+- **[circuit-tracer](https://github.com/d-feng/circuit-tracer)** *(fork)* – Tools for finding neural circuits using MLP transcoders and attribution graphs
  
 ### 🧑‍🔬 Biomedical science  
 - **NCI** – [NCI news](https://www.cancer.gov/news-events/cancer-currents-blog)  
