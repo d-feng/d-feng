@@ -5,55 +5,55 @@
    The theme of my github is application of LLM or Agentic AI for biomedical science.
 <h2>🚀 Languages and Tools I Use</h2>
 <p align="left">
-  <a href="https://www.tensorflow.org" target="_blank">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" />
   </a>
-  <a href="https://pytorch.org" target="_blank">
+  <a href="https://pytorch.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" />
   </a>
-  <a href="https://scikit-learn.org" target="_blank">
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="42" height="42" />
   </a>
-  <a href="https://opencv.org" target="_blank">
+  <a href="https://opencv.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" />
   </a>
-  <a href="https://www.djangoproject.com" target="_blank">
+  <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" />
   </a>
-  <a href="https://git-scm.com" target="_blank">
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
   </a>
-  <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" />
   </a>
-  <a href="https://www.postgresql.org" target="_blank">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
   </a>
-  <a href="https://aws.amazon.com" target="_blank">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
   </a>
-  <a href="https://azure.microsoft.com" target="_blank">
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" />
   </a>
-  <a href="https://www.langchain.com" target="_blank">
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/langchain" alt="langchain" width="42" height="42" />
   </a>
-  <a href="https://huggingface.co" target="_blank">
+  <a href="https://huggingface.co" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" alt="huggingface" width="42" height="42" />
   </a>
-  <a href="https://www.anthropic.com" target="_blank">
+  <a href="https://www.anthropic.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.simpleicons.org/anthropic" alt="anthropic" width="42" height="42" />
   </a>
-  <a href="https://www.pinecone.io" target="_blank">
+  <a href="https://www.pinecone.io" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" alt="pinecone" width="42" height="42" />
   </a>
-  <a href="https://www.giskard.ai" target="_blank">
+  <a href="https://www.giskard.ai" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/71782571?s=48&v=4" alt="giskard" width="42" height="42" />
   </a>
-  <a href="https://www.trychroma.com" target="_blank">
+  <a href="https://www.trychroma.com" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" alt="chroma" width="42" height="42" />
   </a>
-  <a href="https://crawl4ai.com" target="_blank">
+  <a href="https://crawl4ai.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Crawl4AI-Web%20Crawler-%230077B6?style=flat-square" alt="crawl4ai" height="28" />
   </a>
 </p>
