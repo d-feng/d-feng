@@ -3,7 +3,6 @@
    My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.I am a scientific researcher, computational bio professional with 10+ year multidisciplinary expertise in drug discovery and wet lab experience.I also contributed software tools to facilitate the collaboration between scientists.
 ###   
    The theme of my github is application of LLM or Agentic AI for biomedical science.
-<h2>🚀 Languages and Tools I Use</h2>
 
 My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.
 
@@ -13,7 +12,6 @@ The theme of my GitHub is the application of LLMs and agentic AI to biomedical s
 
 <h2>🚀 Languages and Tools I Use</h2>
 
-## 🚀 Languages and Tools I Use
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
