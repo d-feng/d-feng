@@ -1,10 +1,9 @@
 # 💫 About Me:
 
-   The theme of my github is application of LLM or Agentic AI for biomedical science.
-
 My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.
 
-I am a scientific researcher and computational biology professional with 10+ years of multidisciplinary expertise in drug discovery and wet lab research. I have also contributed software tools that facilitate collaboration among scientists.
+I am a scientific researcher and computational biology professional with 10+ years of multidisciplinary expertise in drug discovery and wet lab research. 
+I have also contributed software tools that facilitate collaboration among scientists.
 
 The theme of my GitHub is the application of LLMs and agentic AI to biomedical science.
 
