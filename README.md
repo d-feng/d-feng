@@ -1,7 +1,5 @@
 # 💫 About Me:
-### 
-   My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.I am a scientific researcher, computational bio professional with 10+ year multidisciplinary expertise in drug discovery and wet lab experience.I also contributed software tools to facilitate the collaboration between scientists.
-###   
+
    The theme of my github is application of LLM or Agentic AI for biomedical science.
 
 My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.
