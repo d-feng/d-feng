@@ -4,8 +4,7 @@
 ###   
    The theme of my github is application of LLM or Agentic AI for biomedical science.
 <h2>🚀 Languages and Tools I Use</h2>
-<div>
-<p><a target="_blank" href="https://www.tensorflow.org" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
+<p align="left"><a target="_blank" href="https://www.tensorflow.org" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
 <a target="_blank" href="https://pytorch.org" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://scikit-learn.org" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
 <a target="_blank" href="https://opencv.org" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
@@ -22,7 +21,6 @@
 <a target="_blank" href="https://www.giskard.ai" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/71782571?s=48&v=4" alt="giskard" width="42" height="42" /></a>
 <a target="_blank" href="https://www.trychroma.com" style="display: inline-block;"><img src="https://avatars.githubusercontent.com/u/105881770?s=48&v=4" alt="chroma" width="42" height="42" /></a>
 <a target="_blank" href="https://crawl4ai.com" style="display: inline-block;"><img src="https://img.shields.io/badge/Crawl4AI-Web%20Crawler-%230077B6?style=flat-square" alt="crawl4ai" height="28" /></a></p>
-</div>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
    
