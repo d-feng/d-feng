@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-My goal is to advance biomedical science through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.
+My goal is to advance science and bussiness through AI by augmenting human capabilities, driving scientific progress, and improving quality of life, while ensuring robust safeguards against misuse.
 
 I am a scientific researcher and computational biology professional with 10+ years of multidisciplinary expertise in drug discovery and wet lab research. 
 I have also contributed software tools that facilitate collaboration among scientists.
