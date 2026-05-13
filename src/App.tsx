@@ -31,25 +31,45 @@ const projects = {
   ]
 }
 
+// Reorganized tools - AI Biology first, then Software Tools
 const tools = [
-  { name: 'TensorFlow', cat: 'ML Frameworks' },
-  { name: 'PyTorch', cat: 'ML Frameworks' },
-  { name: 'scikit-learn', cat: 'ML Frameworks' },
-  { name: 'LangChain', cat: 'AI/LLM' },
-  { name: 'Claude', cat: 'AI/LLM' },
-  { name: 'Hugging Face', cat: 'AI/LLM' },
-  { name: 'OpenCV', cat: 'Computer Vision' },
-  { name: 'Django', cat: 'Web' },
-  { name: 'Pinecone', cat: 'Vector DB' },
-  { name: 'Chroma', cat: 'Vector DB' },
-  { name: 'AWS', cat: 'Cloud' },
-  { name: 'Azure', cat: 'Cloud' },
-  { name: 'PostgreSQL', cat: 'Databases' },
-  { name: 'Giskard', cat: 'AI Testing' },
-  { name: 'Cursor IDE', cat: 'Dev Tools' },
-  { name: 'ClaudeMCP', cat: 'Dev Tools' },
-  { name: 'Awesome-AI-Meets-Biology', cat: 'AI Biology' },
-  { name: 'scientific-agent-skills', cat: 'AI Biology' }
+  // AI Biology (top)
+  { name: 'Awesome-AI-Meets-Biology', url: 'https://github.com/Webioinfo01/Awesome-AI-Meets-Biology', cat: 'AI Biology' },
+  { name: 'scientific-agent-skills', url: 'https://github.com/K-Dense-AI/scientific-agent-skills', cat: 'AI Biology' },
+  // ML Frameworks
+  { name: 'TensorFlow', url: 'https://tensorflow.org', cat: 'ML Frameworks' },
+  { name: 'PyTorch', url: 'https://pytorch.org', cat: 'ML Frameworks' },
+  { name: 'scikit-learn', url: 'https://scikit-learn.org', cat: 'ML Frameworks' },
+  // AI/LLM
+  { name: 'LangChain', url: 'https://langchain.com', cat: 'AI/LLM' },
+  { name: 'Claude', url: 'https://anthropic.com/claude', cat: 'AI/LLM' },
+  { name: 'Hugging Face', url: 'https://huggingface.co', cat: 'AI/LLM' },
+  // Computer Vision
+  { name: 'OpenCV', url: 'https://opencv.org', cat: 'Computer Vision' },
+  // Web
+  { name: 'Django', url: 'https://djangoproject.com', cat: 'Web' },
+  // Vector DB
+  { name: 'Pinecone', url: 'https://pinecone.io', cat: 'Vector DB' },
+  { name: 'Chroma', url: 'https://trychroma.com', cat: 'Vector DB' },
+  // Cloud
+  { name: 'AWS', url: 'https://aws.amazon.com', cat: 'Cloud' },
+  { name: 'Azure', url: 'https://azure.microsoft.com', cat: 'Cloud' },
+  // Databases
+  { name: 'PostgreSQL', url: 'https://postgresql.org', cat: 'Databases' },
+  // AI Testing
+  { name: 'Giskard', url: 'https://giskard.ai', cat: 'AI Testing' },
+  // Dev Tools
+  { name: 'Cursor IDE', url: 'https://cursor.com', cat: 'Dev Tools' },
+  { name: 'ClaudeMCP', url: 'https://modelcontextprotocol.io', cat: 'Dev Tools' }
+]
+
+// Skills World - curated skill resources
+const skills = [
+  { name: 'scientific-agent-skills', url: 'https://github.com/K-Dense-AI/scientific-agent-skills', desc: 'Comprehensive skills for AI agents in scientific research', cat: 'Research', lang: 'Python', stars: 380, org: 'K-Dense-AI' },
+  { name: 'awesome-claude-code', url: 'https://github.com/aristoteleo/awesome-claude-code', desc: 'Curated collection of Claude Code prompts and workflows', cat: 'Dev Tools', lang: 'Python', stars: 520, org: 'Aristoteleo' },
+  { name: 'skill-creator', url: 'https://github.com/d-feng/skill-creator', desc: 'Claude Code skill creation and optimization toolkit', cat: 'Dev Tools', lang: 'Python', stars: 180, org: 'd-feng' },
+  { name: 'mcp-servers', url: 'https://github.com/modelcontextprotocol/servers', desc: 'Official MCP server implementations', cat: 'Framework', lang: 'Python', stars: 2400, org: 'MCP' },
+  { name: 'open-interpreter', url: 'https://github.com/OpenInterpreter/open-interpreter', desc: 'Open-source AI coding agent for local execution', cat: 'Dev Tools', lang: 'Python', stars: 5200, org: 'OpenInterpreter' },
 ]
 
 // Bio Agent World - curated list of bioinformatics AI agents
@@ -226,7 +246,7 @@ function App() {
         <nav className="sticky top-0 z-50 bg-gray-950/80 backdrop-blur-xl border-y border-white/5">
           <div className="max-w-6xl mx-auto px-6">
             <div className="flex justify-center gap-1">
-              {['projects', 'agents', 'tools', 'education'].map((tab) => (
+              {['projects', 'agents', 'skills', 'tools', 'education'].map((tab) => (
                 <button key={tab} onClick={() => setActiveTab(tab)}
                         className={`px-6 py-4 capitalize font-medium transition-all duration-300 border-b-2 ${
                           activeTab === tab
@@ -424,6 +444,37 @@ function App() {
             </section>
           )}
 
+          {/* Skills World */}
+          {activeTab === 'skills' && (
+            <section>
+              <div className="mb-8">
+                <h2 className="text-3xl font-bold mb-2">Skills World</h2>
+                <p className="text-gray-400">Resources for building and optimizing AI agents</p>
+              </div>
+
+              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+                {skills.map((skill) => (
+                  <a href={skill.url} target="_blank" rel="noopener noreferrer" key={skill.name}
+                     className="group block bg-gray-900/50 border border-white/10 rounded-2xl p-6 hover:border-green-500/50 transition-all duration-300">
+                    <div className="flex items-center justify-between mb-3">
+                      <span className="px-3 py-1 text-xs font-medium rounded-full bg-green-500/20 text-green-400">
+                        {skill.cat}
+                      </span>
+                      <span className="text-yellow-400 text-sm">⭐ {skill.stars.toLocaleString()}</span>
+                    </div>
+                    <h3 className="text-lg font-bold mb-2 group-hover:text-green-400 transition-colors">{skill.name}</h3>
+                    <p className="text-gray-400 text-sm mb-3">{skill.desc}</p>
+                    <div className="flex items-center gap-2 text-xs text-gray-500">
+                      <span>{skill.lang}</span>
+                      <span>·</span>
+                      <span>{skill.org}</span>
+                    </div>
+                  </a>
+                ))}
+              </div>
+            </section>
+          )}
+
           {/* Tools & Technologies */}
           {activeTab === 'tools' && (
             <section>
@@ -432,6 +483,7 @@ function App() {
 
               <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 {tools.map((tool) => (
+                  <a href={tool.url} target="_blank" rel="noopener noreferrer" className="block">
                   <div key={tool.name}
                        className="group p-4 bg-gray-900/50 border border-white/10 rounded-xl hover:border-green-500/50 transition-all duration-300 text-center">
                     <div className="w-12 h-12 mx-auto mb-3 rounded-xl bg-gradient-to-br from-green-500/20 to-emerald-500/20 flex items-center justify-center group-hover:scale-110 transition-transform">
@@ -451,6 +503,7 @@ function App() {
                     <h3 className="font-semibold text-sm group-hover:text-green-400 transition-colors">{tool.name}</h3>
                     <p className="text-xs text-gray-500 mt-1">{tool.cat}</p>
                   </div>
+                </a>
                 ))}
               </div>
             </section>
