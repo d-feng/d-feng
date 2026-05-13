@@ -47,7 +47,9 @@ const tools = [
   { name: 'PostgreSQL', cat: 'Databases' },
   { name: 'Giskard', cat: 'AI Testing' },
   { name: 'Cursor IDE', cat: 'Dev Tools' },
-  { name: 'ClaudeMCP', cat: 'Dev Tools' }
+  { name: 'ClaudeMCP', cat: 'Dev Tools' },
+  { name: 'Awesome-AI-Meets-Biology', cat: 'AI Biology' },
+  { name: 'scientific-agent-skills', cat: 'AI Biology' }
 ]
 
 // Bio Agent World - curated list of bioinformatics AI agents
@@ -443,6 +445,7 @@ function App() {
                         {tool.cat === 'Databases' && '💾'}
                         {tool.cat === 'AI Testing' && '✓'}
                         {tool.cat === 'Dev Tools' && '⚙️'}
+                        {tool.cat === 'AI Biology' && '🧬'}
                       </span>
                     </div>
                     <h3 className="font-semibold text-sm group-hover:text-green-400 transition-colors">{tool.name}</h3>
